@@ -1,0 +1,46 @@
+    1  git
+    2  git clone https://github.com/EkowAnnan/don.git~
+    3  git clone https://github.com/EkowAnnan/don.git
+    4  ls
+    5  cd don
+    6  ls
+    7  notepad README.md 
+    8  git status
+    9  git add .
+   10  git status
+   11  git commit -m "modified README.md"
+   12  [200~git config --global user.email "sarbah.yankson@gmail.com"~
+   13  git config --global user.email "sarbah.yankson@gmail.com"
+   14   git config --global user.name "EkowAnnan"
+   15  git status
+   16  git commit -m "modified README.md"
+   17  git status
+   18  git push -u
+   19  touch xtech.txt
+   20  notepad xtech.txt 
+   21  git status
+   22  git add .
+   23  git status
+   24  history
+   25   git commit -m "Added xtech.txt"
+   26  git push -u
+   27  git pull --all
+   28  git branch
+   29  git checkout -b dev
+   30  git branch
+   31  ls 
+   32  notepad xtech.txt
+   33  git status
+   34  git add .
+   35  git status
+   36  git commit -m "modified xtech.txt"
+   37  git push -u
+   38  git push --set-upstream origin dev
+   39  git chechout main
+   40  git checkout main
+   41  notepad xtech.txt 
+   42  git pull --all
+   43  notepad xtech.txt 
+   44  git checkout -b git-commands
+   45  history
+   46  history > git-commands.txt
